@@ -11,7 +11,8 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 ## Tech snd Tools
 
 ## Languages
-<p>
+<div align="center">
+  
   <a href="https://developer.apple.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
   </a>
@@ -19,7 +20,6 @@ Passionate about building user-friendly, accessible, and high-performance mobile
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   </a>
-</p>
 
 
 ## iOS and Apple Franeworks
