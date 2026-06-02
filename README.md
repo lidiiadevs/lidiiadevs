@@ -53,8 +53,9 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" /> </p>
 </p>
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiiadevs)
+## Here are the links to some projects I worked on:
+https://apps.apple.com/us/app/sci-med-lingua/id6444793683
+https://apps.apple.com/us/app/skin-health-tracker/id6745493442
 
 
 
