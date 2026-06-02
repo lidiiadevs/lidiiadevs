@@ -27,7 +27,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" /> 
 </p>
 
-## Bakend & Databases
+## Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/SwiftData-blue?logo=apple&logoColor=white" height="20" />
@@ -36,7 +36,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/SQLite-teal?logo=apple&logoColor=white" height="20" />
 </p>
 
-## DevOps
+## DevOps & CI/CD
 <p>
   <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="20" />
@@ -44,7 +44,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/CI%2FCD-orange?logoColor=white" height="20" />
 </p>
 
-## Tech & Tools 
+## Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/xcode-blue?logo=xcode&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/TestFlight-blue?logo=apple&logoColor=white" height="20" />
@@ -53,6 +53,8 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" /> </p>
 </p>
 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiiadevs&show_icons=true)
 
 
 
