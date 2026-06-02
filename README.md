@@ -8,7 +8,6 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 
 ## My Contacts
 You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check out my code on [GitHub](https://github.com/lidiiadevs/).
-## Tech snd Tools
 
 ## Languages
   
@@ -22,22 +21,13 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   
 </p>
 
-## iOS | Apple Franeworks
+## iOS & Apple Frameworks
 <p>
   <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/UIKit-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Core%20Data-blue?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" /> 
-
-
-  <img src="" height="20" />
-  <img src="" height="20" />
-  <img src="" height="20" />
-  
-
 </p>
 
 ## Databases
@@ -57,7 +47,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/CI%2FCD-orange?logoColor=white" height="20" />
 </p>
 
-## Tools 
+## Tech & Tools 
 <p>
   <img src="https://img.shields.io/badge/xcode-blue?logo=xcode&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/TestFlight-blue?logo=apple&logoColor=white" height="20" />
