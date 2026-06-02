@@ -12,9 +12,7 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 
 ## Languages
 
-<p align="center">
- <a href=![Static Badge](https://img.shields.io/badge/Dart-blue?logo=dart)
->
+![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift)
 
 
 <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" />
