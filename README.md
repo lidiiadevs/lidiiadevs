@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Lidiia Diachkovskaia
-___
 ## ✨ About Me
 iOS developer and mobile app builder with 3+ years of experience shipping apps to the App Store and GooglePlay.
 Started with Flutter, then later taught myself UIKit and SwiftUI.
