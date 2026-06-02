@@ -46,10 +46,8 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/SwiftData-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Core%20Data-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Realm-blue?logo=apple&logoColor=white" height="20" />
-  
-  <img src="" height="20" />
-  <img src="" height="20" />
-  <img src="" height="20" />
+  <img src="https://img.shields.io/badge/CRUD-blue?logo=apple&logoColor=white" height="20" />
+   <img src="https://img.shields.io/badge/SQLite-teal?logo=apple&logoColor=white" height="20" />
 </p>
 
 ## Tools 
