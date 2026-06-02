@@ -7,7 +7,7 @@ Started with Flutter, then later taught myself UIKit and SwiftUI.
 Passionate about building user-friendly, accessible, and high-performance mobile applications while continuously learning new technologies.
 
 ## My Contacts
-You can reach me on LinkedIn(https://www.linkedin.com/in/lidiiadevs/) or check out my code on GitHub(https://github.com/lidiiadevs/).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check out my code on [GitHub](https://github.com/lidiiadevs/).
 ## Tech snd Tools
 
 ## Languages
