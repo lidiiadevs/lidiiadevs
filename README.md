@@ -7,7 +7,7 @@ Started with Flutter, then later taught myself UIKit and SwiftUI.
 Passionate about building user-friendly, accessible, and high-performance mobile applications while continuously learning new technologies.
 ___
 ### My Contacts
-
+___
 #### Tech snd Tools
 
 
