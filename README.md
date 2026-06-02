@@ -12,10 +12,10 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 
 ## Languages
   
-  <a href="https://developer.apple.com/">
+  <a>
     <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
   </a>
-  <a href="https://flutter.dev/">
+  <a>
     <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   </a>
 
@@ -35,6 +35,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 <img width="75" height="20" alt="image" src="https://github.com/user-attachments/assets/bb364d5b-da1b-4042-a86c-4c4ea994d274" />
 <img width="47" height="21" alt="image" src="https://github.com/user-attachments/assets/404b2ab6-03ab-4b40-86e8-ce11113be5ba" />
 
+https://img.shields.io/badge/Core%20Data-blue
 
 ## Tools 
 <img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/e0a681bc-2128-4df2-bdb5-22c23239aa30" />
