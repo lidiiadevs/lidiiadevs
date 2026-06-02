@@ -53,7 +53,7 @@ ___
 
 
 ___
-### Here are the links to some projects I worked on:
+### 📱 Here are the links to some projects I worked on:
 
 - [Sci Med Lingua](https://apps.apple.com/us/app/sci-med-lingua/id6444793683)
 - [Skin Health Tracker](https://apps.apple.com/us/app/skin-health-tracker/id6745493442)
