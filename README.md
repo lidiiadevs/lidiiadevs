@@ -40,12 +40,19 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 
 
 ## Tools 
-<img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/e0a681bc-2128-4df2-bdb5-22c23239aa30" />
-<img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/a6863036-2a38-4b35-b9d4-2e1cd7e28331" />
-<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/c58bb0e6-a188-41a5-95cf-154509f35faa" />
-<img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/cce30377-1523-4852-a90b-bc6624e2b60c" />
-<img width="43" height="20" alt="image" src="https://github.com/user-attachments/assets/d36f9a2a-2113-4e96-98f7-e121efc980e4" />
-<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/7ea50f51-c575-4156-8663-846e72fad628" />
+<p>
+  <img src="https://img.shields.io/badge/xcode-blue?logo=xcode&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/TestFlight-blue?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
+  <img src="ttps://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/App%20Store%20Connect%20-%20blue?logo=apple&logoColor=white" height="20" />
+  <img src="" height="20" />
+
+
+
+
+
+</p>
 
 
 
