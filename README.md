@@ -22,8 +22,8 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 
 
 ## iOS and Apple Franeworks
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
-  <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" />
+<a href="https://developer.apple.com/xcode/swiftui/" >
+  <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" />
 </a>
 
 
