@@ -27,7 +27,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" /> 
 </p>
 
-## Databases
+## Bakend & Databases
 <p>
   <img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/SwiftData-blue?logo=apple&logoColor=white" height="20" />
