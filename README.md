@@ -50,7 +50,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/TestFlight-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
   <img src="ttps://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white" height="20" />
 </p>
 
 
