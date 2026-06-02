@@ -9,8 +9,8 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check out my code on [GitHub](https://github.com/lidiiadevs/), or email me at lidiiadevs@gmail.com.
 
 ## Languages
-  
 <p>
+  <h2 style="border:none;">
   <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="20" />
