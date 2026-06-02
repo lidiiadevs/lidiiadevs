@@ -54,8 +54,8 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 </p>
 
 ## Here are the links to some projects I worked on:
-https://apps.apple.com/us/app/sci-med-lingua/id6444793683
-https://apps.apple.com/us/app/skin-health-tracker/id6745493442
+- [Sci Med Lingua](https://apps.apple.com/us/app/sci-med-lingua/id6444793683)
+- [Skin Health Tracker](https://apps.apple.com/us/app/skin-health-tracker/id6745493442)
 
 
 
