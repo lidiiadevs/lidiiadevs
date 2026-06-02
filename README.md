@@ -1,4 +1,4 @@
-# Hi, I'm Lidiia Diachkovskaia
+# 👋 Hi, I'm Lidiia Diachkovskaia
 ___
 ## ✨ About Me
 iOS developer and mobile app builder with 3+ years of experience shipping apps to the App Store and GooglePlay.
@@ -17,7 +17,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/GraphQL-darkblue?logo=graphql&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/SQLite-teal?logo=sqlite&logoColor=white" height="20" />
   
 </p>
 
