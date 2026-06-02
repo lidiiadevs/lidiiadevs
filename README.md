@@ -11,8 +11,10 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 ## Tech snd Tools
 
 ## Languages
-<img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" /> 
-<img width="55" height="20" alt="image" src="https://img.shields.io/badge/Dart-blue?logo=dart"/>
+<p>
+  <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
+  <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
+</p>
 
 
 ## iOS and Apple Franeworks
