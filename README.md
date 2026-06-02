@@ -23,6 +23,21 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 <img width="45" height="20" alt="image" src="https://github.com/user-attachments/assets/404b2ab6-03ab-4b40-86e8-ce11113be5ba" />
 <img width="75" height="20" alt="image" src="https://github.com/user-attachments/assets/bb364d5b-da1b-4042-a86c-4c4ea994d274" />
 <img width="75" height="20" alt="image" src="https://github.com/user-attachments/assets/fa82889d-50dc-4031-88a1-67a27379f045" />
+<img width="95" height="20" alt="image" src="https://github.com/user-attachments/assets/f4719df2-5b7a-4a8c-9725-7efceef460de" />
+
+
+#Tools 
+<img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/e0a681bc-2128-4df2-bdb5-22c23239aa30" />
+<img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/a6863036-2a38-4b35-b9d4-2e1cd7e28331" />
+<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/c58bb0e6-a188-41a5-95cf-154509f35faa" />
+<img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/cce30377-1523-4852-a90b-bc6624e2b60c" />
+<img width="43" height="20" alt="image" src="https://github.com/user-attachments/assets/d36f9a2a-2113-4e96-98f7-e121efc980e4" />
+<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/7ea50f51-c575-4156-8663-846e72fad628" />
+
+
+
+
+
 
 
 
