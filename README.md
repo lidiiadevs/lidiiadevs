@@ -16,8 +16,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/GraphQL-darkblue?logo=graphql&logoColor=white" height="20" />
-  
 </p>
 
 ## iOS & Apple Frameworks
