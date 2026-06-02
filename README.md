@@ -20,19 +20,19 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 ## iOS and Apple Franeworks
 <p>
   <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="22" />
+  <img src="https://img.shields.io/badge/UIKit-blue?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Core%20Data-blue?logo=swift&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
+
+    
+
+
+
 </p>
 
 
-<img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/5db62d3d-c730-4b56-9c5f-1f6780f95d4b" />
-<img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/03b55583-72b8-4131-a85b-baea820a4fa9" />
-<img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/671ccd80-51a0-4d61-9590-b7714d02397a" />
-<img width="105" height="20" alt="image" src="https://github.com/user-attachments/assets/1e00717c-cebc-493e-a996-82e1349a4a79" />
-<img width="73" height="20" alt="image" src="https://github.com/user-attachments/assets/fdb60d95-ecff-4ec6-b2f1-f16fb09c6a04" />
-<img width="75" height="20" alt="image" src="https://github.com/user-attachments/assets/fa82889d-50dc-4031-88a1-67a27379f045" />
-<img width="95" height="20" alt="image" src="https://github.com/user-attachments/assets/f4719df2-5b7a-4a8c-9725-7efceef460de" />
-<img width="75" height="20" alt="image" src="https://github.com/user-attachments/assets/bb364d5b-da1b-4042-a86c-4c4ea994d274" />
-<img width="47" height="21" alt="image" src="https://github.com/user-attachments/assets/404b2ab6-03ab-4b40-86e8-ce11113be5ba" />
+
 
 https://img.shields.io/badge/Core%20Data-blue
 
