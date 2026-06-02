@@ -5,7 +5,7 @@ Started with Flutter, then later taught myself UIKit and SwiftUI.
 
 Passionate about building user-friendly, accessible, and high-performance mobile applications while continuously learning new technologies.
 
-Creating apps is an art you practice.
+Creating apps is an art you practice and refine.
 
 ### 🔗 My Contacts
 You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check out my code on [GitHub](https://github.com/lidiiadevs/), or email me at lidiiadevs@gmail.com.
