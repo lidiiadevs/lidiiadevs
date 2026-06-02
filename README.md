@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Lidiia Diachkovskaia
+---
+## 👩‍💻 About Me
+iOS developer and mobile app builder with 3+ years of experience shipping apps to the App Store and GooglePlay using Swift and Dart.
+Started with Flutter, then later taught myself UIKit and SwiftUI.
 
-<!--
-**lidiiadevs/lidiiadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building user-friendly, accessible, and high-performance mobile applications while continuously learning new technologies.
+___
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
