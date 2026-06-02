@@ -54,7 +54,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 </p>
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiiadevs&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiiadevs)
 
 
 
