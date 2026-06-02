@@ -13,11 +13,11 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 ## Languages
 <div align="center">
   
-  <a href="https://developer.apple.com/" target="_blank">
+  <a href="https://developer.apple.com/">
     <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
   </a>
 
-  <a href="https://flutter.dev/" target="_blank">
+  <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   </a>
 
