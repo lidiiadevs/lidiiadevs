@@ -13,7 +13,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 ## Languages
   
 <p>
-  <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
+  <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="22" />
 </p>
 
