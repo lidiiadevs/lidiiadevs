@@ -12,12 +12,13 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 
 ## Languages
   
- <p>
-  <a href="">
-    <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
+<p>
+  <a href="https://apple.com">
+    <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" style="border:0; outline:none;" />
   </a>
+
   <a href="https://flutter.dev/">
-    <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
+    <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" style="border:0; outline:none;" />
   </a>
 </p>
 
