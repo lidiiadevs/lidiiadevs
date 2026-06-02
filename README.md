@@ -16,13 +16,25 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <a href="https://developer.apple.com/">
     <img src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" height="20" />
   </a>
-
   <a href="https://flutter.dev/">
     <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   </a>
 
 
 ## iOS and Apple Franeworks
+ <a href="https://developer.apple.com/xcode/swiftui/">
+    <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" )
+/>
+  </a>
+
+
+
+
+
+
+
+
+
 <img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/5db62d3d-c730-4b56-9c5f-1f6780f95d4b" />
 <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/03b55583-72b8-4131-a85b-baea820a4fa9" />
 <img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/671ccd80-51a0-4d61-9590-b7714d02397a" />
