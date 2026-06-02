@@ -31,6 +31,8 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" /> 
+
+
   <img src="" height="20" />
   <img src="" height="20" />
   <img src="" height="20" />
@@ -38,6 +40,17 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
 
 </p>
 
+## Databases
+<p>
+  <img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/SwiftData-blue?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Core%20Data-blue?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Realm-blue?logo=apple&logoColor=white" height="20" />
+  
+  <img src="" height="20" />
+  <img src="" height="20" />
+  <img src="" height="20" />
+</p>
 
 ## Tools 
 <p>
@@ -46,14 +59,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
   <img src="ttps://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" />
-
-
-  <img src="" height="20" />
-
-
-
-
-
 </p>
 
 
