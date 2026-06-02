@@ -22,7 +22,7 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   
 </p>
 
-## iOS and Apple Franeworks
+## iOS | Apple Franeworks
 <p>
   <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/UIKit-blue?logo=apple&logoColor=white" height="20" />
