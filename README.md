@@ -14,7 +14,9 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   
 <p>
   <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="22" />
+  <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" height="20" />
 </p>
 
 ## iOS and Apple Franeworks
@@ -24,17 +26,15 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/) or check
   <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Core%20Data-blue?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
-
-    
-
-
+  <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" /> 
+  <img src="" height="20" />
+  <img src="" height="20" />
+  <img src="" height="20" />
+  
 
 </p>
 
-
-
-
-https://img.shields.io/badge/Core%20Data-blue
 
 ## Tools 
 <img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/e0a681bc-2128-4df2-bdb5-22c23239aa30" />
