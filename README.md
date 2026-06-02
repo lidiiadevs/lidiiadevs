@@ -12,9 +12,7 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 
 ## Languages
 <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/f041843f-e84f-46b0-b2f2-8e43baad5966" />
-<img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/00f3dd01-70ff-4966-9082-6262226cabaa" />
-
-
+![Static Badge](https://img.shields.io/badge/Dart-blue?logo=dart)
 
 
 ## iOS and Apple Franeworks
