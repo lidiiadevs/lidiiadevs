@@ -7,10 +7,9 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 
 ### My Contacts
 You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check out my code on [GitHub](https://github.com/lidiiadevs/), or email me at lidiiadevs@gmail.com.
-
+___
 ### Languages
 <p>
-  <h2 style="border:none;">
   <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Dart-blue?logo=dart" height="20" />
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" height="20" />
@@ -52,7 +51,10 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check o
   <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" /> </p>
 </p>
 
+
+___
 ### Here are the links to some projects I worked on:
+
 - [Sci Med Lingua](https://apps.apple.com/us/app/sci-med-lingua/id6444793683)
 - [Skin Health Tracker](https://apps.apple.com/us/app/skin-health-tracker/id6745493442)
 
