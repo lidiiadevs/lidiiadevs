@@ -5,7 +5,7 @@ Started with Flutter, then later taught myself UIKit and SwiftUI.
 
 Passionate about building user-friendly, accessible, and high-performance mobile applications while continuously learning new technologies.
 
-Creating apps is an art you practice and refine.
+Creating apps is an art you practice and refine✨
 
 ### 🔗 My Contacts
 You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check out my code on [GitHub](https://github.com/lidiiadevs/), or email me at lidiiadevs@gmail.com.
@@ -48,9 +48,9 @@ ___
 <p>
   <img src="https://img.shields.io/badge/xcode-blue?logo=xcode&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/TestFlight-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" /> </p>
+  <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
 </p>
 
 
