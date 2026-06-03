@@ -24,6 +24,7 @@ ___
   <img src="https://img.shields.io/badge/UIKit-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/CLoudKit-blue?logo=icloud&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" /> 
 </p>
 
