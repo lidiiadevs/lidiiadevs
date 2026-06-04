@@ -63,7 +63,7 @@ ___
   <img src="https://img.shields.io/badge/CI%2FCD-orange?logoColor=white" height="20" /> -->
 </p>
 
-### Tools & Environment
+### <h2>🟦 Tools & Environment</h2>
 <p>
   <img src="https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/TestFlight-blue?logo=apple&logoColor=white" height="20" />
