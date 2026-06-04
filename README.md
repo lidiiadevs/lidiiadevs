@@ -25,6 +25,7 @@ ___
   <img src="https://img.shields.io/badge/Combine-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Async%2FAwait-orange?logo=swift&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/AVKit-orange?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/CloudKit-blue?logo=icloud&logoColor=white" height="20" />
   <!-- <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" />
