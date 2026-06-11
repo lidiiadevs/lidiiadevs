@@ -38,6 +38,7 @@ ___
   <img src="https://img.shields.io/badge/Core%20Data-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Realm-blue?logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/SQLite-teal?logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="20" />
 </p>
 
 ### DevOps & CI/CD
