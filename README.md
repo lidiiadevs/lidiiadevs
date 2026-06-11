@@ -28,12 +28,6 @@ ___
   <img src="https://img.shields.io/badge/AVKit-orange?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/CloudKit-blue?logo=icloud&logoColor=white" height="20" />
-  <!-- <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/UIKit-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/AVFoundation-orange?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/CloudKit-blue?logo=icloud&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/RevenueCat-red?logo=revenuecat&logoColor=white" height="20" />  -->
 </p>
 
 ### Backend, Networking & Databases
@@ -44,11 +38,6 @@ ___
   <img src="https://img.shields.io/badge/Core%20Data-blue?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Realm-blue?logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/SQLite-teal?logoColor=white" height="20" />
-  <!-- <img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/SwiftData-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Core%20Data-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Realm-blue?logo=apple&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/SQLite-teal?logo=apple&logoColor=white" height="20" /> -->
 </p>
 
 ### DevOps & CI/CD
@@ -58,10 +47,6 @@ ___
   <img src="https://img.shields.io/badge/GitLab-black?logo=gitlab" height="20" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/SPM-orange?logo=swift&logoColor=white" height="20" />
-  <!-- <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/GitLab-black?logo=gitlab" height="20" />
-  <img src="https://img.shields.io/badge/CI%2FCD-orange?logoColor=white" height="20" /> -->
 </p>
  
 ### Tools & Environment
@@ -73,6 +58,13 @@ ___
   <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
 </p>
 
+### AI Tools
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Claude-black?logo=anthropic&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" height="20" />
+</p>
 
 ___
 ### 🔗 Here are the links to some projects I worked on:
