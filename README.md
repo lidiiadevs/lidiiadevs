@@ -60,10 +60,12 @@ ___
 
 ### AI Tools
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/claudecode-black?logo=anthropic&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Cursor-111111?logo=cursor&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/Midjourney-222222?logoColor=white" height="20" />
 </p>
 
 ___
