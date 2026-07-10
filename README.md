@@ -47,7 +47,7 @@ ___
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/GitLab-black?logo=gitlab" height="20" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-blue?logo=githubactions&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/SPM-orange?logo=swift&logoColor=white" height="20" />
+  <!-- <img src="https://img.shields.io/badge/SPM-orange?logo=swift&logoColor=white" height="20" /> -->
 </p>
  
 ### Tools & Environment
