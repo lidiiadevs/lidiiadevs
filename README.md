@@ -77,7 +77,21 @@ ___
 
 - [Sci Med Lingua](https://apps.apple.com/us/app/sci-med-lingua/id6444793683)
 - [Skin Health Tracker](https://apps.apple.com/us/app/skin-health-tracker/id6745493442)
+---
+### Encore App
+<img align="right" src="https://github.com/lidiiadevs/Encore/blob/dev/Encore/EncoreGIF.gif?raw=true" width="170" alt="Encore Demo"/>
 
+*A minimalistic concert tracking app to organize your live music experiences.*
+
+**Features:**
+- Log attended concerts and keep a personal concert history
+- Track upcoming concerts and manage future events
+- Store concert data locally using SwiftData
+- Create a simple and intuitive user experience with SwiftUI
+
+🔗 [GitHub Repository](https://github.com/lidiiadevs/Encore)
+
+<br clear="right"/>
 
 
 
