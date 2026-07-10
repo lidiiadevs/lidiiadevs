@@ -68,6 +68,7 @@ ___
   <img src="https://img.shields.io/badge/Cursor-111111?logo=cursor&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Midjourney-222222?logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/RevenueCat-red?logoColor=white" height="20" />
 </p>
 
 ___
