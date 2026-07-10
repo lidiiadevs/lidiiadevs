@@ -28,6 +28,7 @@ ___
   <img src="https://img.shields.io/badge/StoreKit-red?logo=apple&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/CloudKit-blue?logo=icloud&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/CoreHaptics-black?logo=apple&logoColor=white" height="20" />
+  <img src="https://img.shields.io/badge/SpriteKit-red?logo=apple&logoColor=white" height="20" />  
 </p>
 
 ### Backend, Networking & Databases
