@@ -93,6 +93,22 @@ ___
 
 <br clear="right"/>
 
+___
+### Bullet Storm Game
+
+<img align="right" src="https://github.com/lidiiadevs/BulletStormGameSpriteKit/blob/main/BulletStormGameSpriteKit/BulletStormGameGIF.gif?raw=true" width="170" alt="Bullet Storm Game Demo"/>
+
+*A simple arcade-style game built with SpriteKit and SwiftUI, featuring shooting mechanics and interactive gameplay.*
+
+**Features:**
+- Built with SpriteKit and SwiftUI
+- Implemented gameplay mechanics, animations, and physics interactions
+- Added sprite movement and effects using SpriteKit actions
+- Created a simple arcade-style shooting experience
+
+🔗 [GitHub Repository](https://github.com/lidiiadevs/BulletStormGameSpriteKit)
+
+<br clear="right"/>
 
 
 
