@@ -110,10 +110,23 @@ ___
 
 <br clear="right"/>
 
+___
+### Dice Roller
 
+<img align="right" src="https://github.com/lidiiadevs/DiceRollerSwiftUI/blob/main/DiceRollerSwiftUI/DiceHGIF.gif?raw=true" width="170" alt="Bullet Storm Game Demo"/>
 
+*A simple SwiftUI app for rolling dice, picking players, and keeping track of scores.*
 
+**Features:**
+- Built with SwiftUI
+- Created a dice rolling screen with animations
+- Added a Pick-a-Pal screen for selecting players
+- Implemented a score keeper to track game results
+- Designed a simple and interactive user experience
 
+🔗 [GitHub Repository](https://github.com/lidiiadevs/DiceRollerSwiftUI)
+
+<br clear="right"/>
 
 
 
