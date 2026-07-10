@@ -58,6 +58,8 @@ ___
   <img src="https://img.shields.io/badge/Figma-orange?logo=figma&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/App%20Store%20Connect-blue?logo=apple&logoColor=white" height="20" /> 
   <img src="https://img.shields.io/badge/VSCode-blue?logoColor=white" height="20" />
+   <img src="https://img.shields.io/badge/RevenueCat-red?logoColor=white" height="20" />
+   <img src="https://img.shields.io/badge/AdMob-orange?logo=admob&logoColor=white" height="20" />
 </p>
 
 ### AI Tools
@@ -68,7 +70,6 @@ ___
   <img src="https://img.shields.io/badge/Cursor-111111?logo=cursor&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Midjourney-222222?logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/RevenueCat-red?logoColor=white" height="20" />
 </p>
 
 ___
