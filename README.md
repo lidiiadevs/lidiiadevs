@@ -84,7 +84,7 @@ ___
 
 ### Lingloop
 
-<a href="https://apps.apple.com/us/app/skin-health-tracker/id6745493442">
+<a href="https://apps.apple.com/us/app/lingloop/id6780240137">
   <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
 </a>
 <br clear="right"/>
