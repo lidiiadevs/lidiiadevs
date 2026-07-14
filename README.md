@@ -82,10 +82,22 @@ ___
 </a>
 <br clear="right"/>
 
+### Lingloop
+
+<a href="https://apps.apple.com/us/app/skin-health-tracker/id6745493442">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+<br clear="right"/>
 
 
-- [Sci Med Lingua](https://apps.apple.com/us/app/sci-med-lingua/id6444793683)
-- [Skin Health Tracker](https://apps.apple.com/us/app/skin-health-tracker/id6745493442)
+### Skin Health Tracker
+
+<a href="https://apps.apple.com/us/app/skin-health-tracker/id6745493442">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+<br clear="right"/>
+
+
 ---
 ### Encore App
 <img align="right" src="https://github.com/lidiiadevs/Encore/blob/dev/Encore/EncoreGIF.gif?raw=true" width="170" alt="Encore Demo"/>
