@@ -75,6 +75,15 @@ ___
 ___
 ### 🔗 Here are the links to some projects I worked on:
 
+### Sci Med Lingua
+
+<a href="https://apps.apple.com/us/app/sci-med-lingua/id6444793683">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+<br clear="right"/>
+
+
+
 - [Sci Med Lingua](https://apps.apple.com/us/app/sci-med-lingua/id6444793683)
 - [Skin Health Tracker](https://apps.apple.com/us/app/skin-health-tracker/id6745493442)
 ---
