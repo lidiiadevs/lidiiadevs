@@ -8,7 +8,8 @@ Passionate about building user-friendly, accessible, and high-performance mobile
 Creating apps is an art you practice and refine 🪄
 
 ### 🔗 My Contacts
-You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check out my code on [GitHub](https://github.com/lidiiadevs/), or email me at lidiiadevs@gmail.com.
+<!-- You can reach me on [LinkedIn](https://www.linkedin.com/in/lidiiadevs/), check out my code on [GitHub](https://github.com/lidiiadevs/), or email me at lidiiadevs@gmail.com. /> -->
+Email me at lidiiadevs@gmail.com
 ___
 ### Languages
 <p>
