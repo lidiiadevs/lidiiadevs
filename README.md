@@ -131,7 +131,8 @@ ___
 🔗 [GitHub Repository](https://github.com/lidiiadevs/GhibliSwiftUIApp)
 
 <br clear="right"/>
-___
+
+---
 ### Bullet Storm Game
 
 <img align="right" src="https://github.com/lidiiadevs/BulletStormGameSpriteKit/blob/main/BulletStormGameSpriteKit/BulletStormGameGIF.gif?raw=true" width="170" alt="Bullet Storm Game Demo"/>
