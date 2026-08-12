@@ -113,6 +113,24 @@ ___
 
 <br clear="right"/>
 
+---
+### Ghibli App
+<img align="right" src="https://github.com/lidiiadevs/GhibliSwiftUIApp/blob/main/GhibliSwiftUIApp/Preview%20Assets/gif.gif" width="170" alt="Encore Demo"/>
+
+*A minimalistic Studio Ghibli movie app to explore films and manage your favorites.*
+
+**Features:**
+- Build a simple and intuitive interface with SwiftUI
+- Use MVVM, Swift Concurrency, and Observation for app architecture and state management
+- Fetch movie data from a REST API (https://ghibliapi.vercel.app/)
+- Use default and mock API services with dependency injection for production and testing
+- View detailed information about each movie
+- Save and manage favorite films locally
+- Browse and search Studio Ghibli films
+
+🔗 [GitHub Repository](https://github.com/lidiiadevs/GhibliSwiftUIApp)
+
+<br clear="right"/>
 ___
 ### Bullet Storm Game
 
