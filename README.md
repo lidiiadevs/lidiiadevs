@@ -104,10 +104,10 @@ ___
 *A minimalistic concert tracking app to organize your live music experiences.*
 
 **Features:**
+- Create a simple and intuitive user experience with SwiftUI
+- Store concert data locally using SwiftData
 - Log attended concerts and keep a personal concert history
 - Track upcoming concerts and manage future events
-- Store concert data locally using SwiftData
-- Create a simple and intuitive user experience with SwiftUI
 
 🔗 [GitHub Repository](https://github.com/lidiiadevs/Encore)
 
